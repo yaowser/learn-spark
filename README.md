@@ -1,12 +1,12 @@
 # learn-spark
 
-Lynda:
+**Lynda:
 
 Essential Training: https://www.lynda.com/Apache-Spark-tutorials/Apache-Spark-Essential-Training/550568-2.html
 
 Extending Spark: https://www.lynda.com/Hadoop-tutorials/Extending-Hadoop-Data-Science-Streaming-Spark-Storm-Kafka/516574-2.html
 
-IBM bigdatauniversity:
+**IBM bigdatauniversity:
 
 Spark Fundamentals I: https://courses.cognitiveclass.ai/courses/course-v1:BigDataUniversity+BD0211EN+2016/info
 
@@ -20,12 +20,12 @@ Analyzing Big Data in R using Apache Spark: https://courses.cognitiveclass.ai/co
 
 completed notebooks: files found from notebook root
 
-O'Reilly:
+**O'Reilly:
 
 Definitive Guide Excerpts: http://go.databricks.com/definitive-guide-apache-spark
 
 Raw Chapters: http://shop.oreilly.com/product/0636920034957.do
 
-EDX:
+**EDX: 
 
-https://courses.edx.org/certificates/7d015df9db7347cc8ecefd3d78a47415
+DAT202.3x: Implementing Predictive Analytics with Spark in Azure HDInsight: https://courses.edx.org/certificates/7d015df9db7347cc8ecefd3d78a47415
