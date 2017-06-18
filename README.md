@@ -29,3 +29,13 @@ Raw Chapters: http://shop.oreilly.com/product/0636920034957.do
 **EDX:**
 
 DAT202.3x: Implementing Predictive Analytics with Spark in Azure HDInsight: https://courses.edx.org/certificates/7d015df9db7347cc8ecefd3d78a47415
+
+**Databricks:**
+
+Educational and Training material: https://docs.databricks.com/spark/latest/training/index.html
+
+Community edition github: https://github.com/databricks/Spark-The-Definitive-Guide
+
+ML spark project: https://docs.databricks.com/spark/latest/training/cal-state-la-biz-data-la.html
+
+Genome project: https://docs.databricks.com/spark/latest/training/1000-genomes.html#hail-tutorial-sse-2017
