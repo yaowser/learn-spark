@@ -1,4 +1,4 @@
-# learn-spark
+# Learn/Teach Apache Spark 2.1 via Databricks Community Edition
 
 **Lynda:**
 
