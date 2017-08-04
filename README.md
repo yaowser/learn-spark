@@ -1,5 +1,7 @@
 # Learn/Teach Apache Spark 2.1 via Databricks Community Edition
 
+video lecture (teach spark final project): https://youtu.be/IVMbSDS4q3A
+
 **Lynda:**
 
 Essential Training: https://www.lynda.com/Apache-Spark-tutorials/Apache-Spark-Essential-Training/550568-2.html
