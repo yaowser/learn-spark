@@ -2,6 +2,10 @@
 
 video lecture (teach spark final project): https://youtu.be/IVMbSDS4q3A
 
+Paper: https://www.academia.edu/35646386/Teaching_Apache_Spark_Demonstrations_on_the_Databricks_Cloud_Platform 
+
+Powerpoint: https://www.slideshare.net/YaoYao44/teaching-apache-spark-demonstrations-on-the-databricks-cloud-platform/
+
 **Lynda:**
 
 Essential Training: https://www.lynda.com/Apache-Spark-tutorials/Apache-Spark-Essential-Training/550568-2.html
